@@ -4,10 +4,9 @@ Please kindly read this file as I mentioned a lot of details relevant for this c
 
 I have pushed this to production in Vercel server and you can clone this repo and set it up by:
 
-1. Type "cd my-app" in terminal to go to the directory
-2. Type "pnpm i" in terminal to install the dependencies
-3. Type "pnpm run dev" to run the development server.
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Type "pnpm i" in terminal to install the dependencies
+2. Type "pnpm run dev" to run the development server.
+3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 For the sake of setup simplicity, I avoided using third-party packages such as react intersection observer, shadcn UI for beautiful components, etc. All the code for the assignment is in one single page which is page.tsx.
 
